@@ -1,0 +1,183 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Irelands lamentation for the late destructive cessation, or, A trap to catch Protestants. Written by Lieutenant Colonell Chidly Coote. Published according to order.</title>
+            <author>Coote, Chidly.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80428</idno>
+            <idno type="STC">Wing C6066</idno>
+            <idno type="STC">Thomason E35_4</idno>
+            <idno type="STC">ESTC R19021</idno>
+            <idno type="EEBO-CITATION">99860544</idno>
+            <idno type="PROQUEST">99860544</idno>
+            <idno type="VID">112666</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80428)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112666)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 6:E35[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Irelands lamentation for the late destructive cessation, or, A trap to catch Protestants. Written by Lieutenant Colonell Chidly Coote. Published according to order.</title>
+                  <author>Coote, Chidly.</author>
+               </titleStmt>
+               <extent>[2], 9, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R. C. for H. S.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "March 1st 1643".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112666:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 73 -->
+            <p>IRELANDS LAMENTATION For the late Deſtructive Ceſſation, <hi>OR,</hi> A Trap to catch Proteſtants.</p>
+            <p>Written by Lieutenant Colonell <hi>Chidly Coote.</hi>
+            </p>
+            <p>Publiſhed according to Order.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>R. C.</hi> for <hi>H. S.</hi> 1644. <add>1643</add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:112666:2"/>
+            <!-- PDF PAGE 74 -->
+            <head>Irelands Lamentation, For the Deſtructive Ceſſation.</head>
+            <p>
+               <seg rend="decorInit">A</seg>Lthough the ſad face of <hi>Ireland</hi> hath appeared often in ſable colours to the publique view of the true hearted Proteſtants of <hi>England,</hi> whoſe dolefull ſtory by patheticall expreſſions by men of eminence and others, hath been already moſt amply and lively deſcribed: Yet I preſume (though no Mercu<g ref="char:EOLhyphen"/>rialiſt) being a ſpectator of the prodigious Tragedies act<g ref="char:EOLhyphen"/>ed on the bloody Theater of that Kingdome, to preſent unto your ſerious thoughts the deplorable condition, and preſent ſtate of the languiſhing Proteſtants there, which I conceive, I am many wayes bound to diſcover, as both in duty to Almighty God, ſo in zeale and faithfulneſſe to my Country.</p>
+            <p>And becauſe I neither deſire nor dare to adventure the inlarging my preſent Relation with the flouriſhes of Rhe<g ref="char:EOLhyphen"/>torick, having been bred a Souldier, and not verſt that way, I ſhall make the moſt plaine, ſpeedy, and true De<g ref="char:EOLhyphen"/>monſtration that I may, and ſhall enter into the particulars.</p>
+            <p>And firſt, I ſhall give a touch of one circumſtance, that hath been a great occaſion of the Proteſtants miſery in that Kingdome; and that hath hapned through the falſe, and treacherous government of thoſe, who have lately been
+<pb n="2" facs="tcp:112666:3"/>
+               <!-- PDF PAGE 75 -->ſet as Rulers and Governours over them. And in relation of this, it will not be neceſſary for me, to uſe over much prolixity, for even ſince my repaire to this City, I well perceive my Lord Marqueſſe of <hi>Ormond,</hi> and moſt of his Complices, have been truely Characterized unto this whole Kingdom. Onely I ſhall offer this unto the con<g ref="char:EOLhyphen"/>ſideration of all men, whether or no it can be juſtly con<g ref="char:EOLhyphen"/>ceived, that the Proteſtants have been, or can bee juſtly dealt withall, as long as my Lord of <hi>Ormond,</hi> my Lord Chancellor <hi>Boulton,</hi> my Lord of <hi>Roſcomon,</hi> my Lord <hi>Lam<g ref="char:EOLhyphen"/>bert,</hi>
+               <note place="margin">
+                  <hi>Taaffe</hi> and <hi>Bar<g ref="char:EOLhyphen"/>ry,</hi> obſtinate Pa<g ref="char:EOLhyphen"/>piſts, the two <hi>Poores</hi> kinſmen to my Lord Marqueſſe, and Papiſts like<g ref="char:EOLhyphen"/>wiſe, and thoſe by whom he is moſt led &amp; <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<g ref="char:EOLhyphen"/>led.</note> my Lord <hi>Brabazon,</hi> my Lord <hi>Taaffe,</hi> Sir <hi>Morris Euſtance,</hi> Colonell <hi>Barrey,</hi> and the two <hi>Poores</hi> have had, and ſtill have, the ſway of that Kingdome, and I doubt not but that the true conſideration of this, cannot but induce you to beleeve, that the greateſt Juſtice the Proteſtants can expect is injuſtice in the very abſtract, and the greateſt mercy, moſt ſuddain, and inevitable cruelty, and deſtruction, if not through Gods infinite mercy and care of the Honourable Houſes of Parliament, timely prevented.</p>
+            <p>For truely, this I will confidently affirme upon my own knowledge, and ſhall by Gods gratious aſſiſtance never bee afraid,<note place="margin">Witneſſe the chooſing theſe above named Papiſts for Ru<g ref="char:EOLhyphen"/>lers of the king<g ref="char:EOLhyphen"/>dome, and im<g ref="char:EOLhyphen"/>priſoning Sir <hi>William Parſons</hi> Sir <hi>Adam Lof<g ref="char:EOLhyphen"/>tus,</hi> Sir <hi>Iohn Temple,</hi> and Sir <hi>Robert Meri<g ref="char:EOLhyphen"/>deth,</hi> Doctor <hi>Harding,</hi> and divers others that were im<g ref="char:EOLhyphen"/>priſoned and have beene en<g ref="char:EOLhyphen"/>forced to flye.</note> to ſeale the Truth of my affirmation with my blood, that if countenancing the Papiſts, diſcountenan<g ref="char:EOLhyphen"/>cing the Proteſtants, bee juſtice, the Proteſtants have an adminiſtration of juſtice, in this kind, to the very full. If countenancing Jeſuites, and ſetting up in the Pulpits, prat<g ref="char:EOLhyphen"/>ling Miniſters, diſcountenancing and impriſoning honeſt and zealous Preachers of the ſacred Word of God, be Ju<g ref="char:EOLhyphen"/>ſtice, the Proteſtants of that Kingdome have no cauſe of complaint.</p>
+            <p>If looking with a gratious aſpect on thoſe who are rotten, and lukewarme, in the ſervice againſt the Rebels, and be<g ref="char:EOLhyphen"/>holding thoſe who were honeſt in the ſervice, with a threatning and malignant b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ow, be a ſigne of Juſtice, the
+<pb n="3" facs="tcp:112666:3"/>
+               <!-- PDF PAGE 75 -->Proteſtants need not complaine of the want of Juſtice. In a word, to end this circumſtance, I do hereby declare before God, and the whole world, that the beſt juſtice diſtributed amongſt the Proteſtants of <hi>Ireland,</hi> hath been moſt deſtructive, both to Church and Common-wealth, and ſhall heartily wiſh, that the unjuſt Rulers of that King<g ref="char:EOLhyphen"/>dome may be removed from among the poore languiſhing ſoules, that lye groaning under their cruelty.</p>
+            <p>Now I muſt turne my diſcourſe from the many miſeries the Proteſtants of <hi>Ireland</hi> have ſuſtained, by thoſe who ſhould have been their beſt friends, and will make as briefe a Relation as I may, of the ſuddain deſtruction, our too too well known enemies would fain bring upon us, and what wayes they have prepared to effect the ſame. The firſt way they fell upon, is by this time notifyed to all Na<g ref="char:EOLhyphen"/>tions, which was to cut off man, woman, and childe at one blow, without diſtinction of either deſcent, age, or ſex, and not onely to kill their bodies, but their ſoules alſo, as farre as in them lay, forcing many weak Chriſtians to de<g ref="char:EOLhyphen"/>ny their Redeemer, and then telling them, they were in the ſtate of Grace, and that they could never dye in a bet<g ref="char:EOLhyphen"/>ter time, and ſo hanged them up; and their raging ma<g ref="char:EOLhyphen"/>lice was not ſufficiently ſhewed, as they ſuppoſed, by kil<g ref="char:EOLhyphen"/>ling the Soules of the Proteſtants, and murthering their bodies,<note place="margin">This kind of death the Rela<g ref="char:EOLhyphen"/>tor can the bet<g ref="char:EOLhyphen"/>ter teſtifie, be<g ref="char:EOLhyphen"/>cauſe one Ma<g ref="char:EOLhyphen"/>ſter <hi>Watſon</hi> a Divine and Chaplaine un<g ref="char:EOLhyphen"/>to his Father ſuffered in this kinde.</note> but they muſt aggravate the malignity of their malice, by inflicting not onely death, but ſtrange kindes of death upon them, as ſtabbing, hanging, drowning, which is known unto all men, ſtarving the <hi>Engliſh,</hi> untill they forced them to eate pieces of their own fleſh, cut off and broiled on the coales, and many ſuch like horrid deaths as theſe. And becauſe they did not abound enough in malice, as yet, to the <hi>Engliſh</hi> Proteſtants, the Papiſts in <hi>Ireland</hi> muſt be inforced to kill their own wives,<note place="margin">The Relater is ready to affirm this upon oath.</note> that they had marryed of the <hi>Engliſh,</hi> great with childe, becauſe
+<pb n="4" facs="tcp:112666:4"/>
+               <!-- PDF PAGE 76 -->they had <hi>Engliſh</hi> blood in them, as they ſaid, and all thoſe <hi>Engliſh</hi> allyed unto them by their wives.</p>
+            <p>Neither did their rage extend onely to the living, but moſt inhumanely conveyed it ſelfe to the dead; for it is a maxime in their diabolicall Divinity, that it is unlawfull to ſay Maſſe, where Hereticks have been buryed: upon which ground they have diſ-interred the bodies of the in<g ref="char:EOLhyphen"/>nocent Proteſtants ſleeping in their graves, and have ex<g ref="char:EOLhyphen"/>poſed them to be a prey either to beaſts or birds: witneſſe their practiſe in this kind at <hi>Galway, Limerick,</hi> and in di<g ref="char:EOLhyphen"/>vers other places.<note place="margin">As Doctor <hi>Webbe</hi> Biſhop of <hi>Limerick,</hi> Maſter <hi>Lee,</hi> &amp;c.</note>
+            </p>
+            <p>Againe, their barbarous immanity ends not with the reaſonable creature, but diffuſeth it ſelfe to the ſenſitive and vegetable, for they revenge themſelves on the very Engliſh Beaſts,<note place="margin">To wit becauſe they had En<g ref="char:EOLhyphen"/>gliſh bloud in ſheepe.</note> commonly called by the name of Engliſh breede, for the ſame reaſon before mentioned, and would not when they were deſigned for ſlaughter, kill them, as they did the Iriſh breede, but the beaſts being alive, cut off great peeces of fleſh out of them, skinne and fleſh to<g ref="char:EOLhyphen"/>gether, and ſo broyling that fleſh upon the coales, eate the ſame; and if the beaſts chanced either to roare or groan for miſery and paine, they would in deteſtation and mock<g ref="char:EOLhyphen"/>ery of the Engliſh, cry out that they underſtood not their Engliſh language. But hitherto they have not launced out farre enough into the Sea of their malice, and cruelty, but they muſt proceed further yet. They muſt be revenged of all manner of things, that either pleaſed or belonged unto the Engliſh. Trees that the Engliſh planted muſt be cut up, roote and branch, there was too much of an En<g ref="char:EOLhyphen"/>gliſh man in them; All herbes, plants, odoriferous flow<g ref="char:EOLhyphen"/>ers, ſet and planted by the Engliſh, and pleaſing to them, muſt therefore no longer grow but be pluckt up. All ſtately houſes, and all manner of coſtly Ornaments and furniture belonging to the Engliſh, muſt be (out of the
+<pb n="5" facs="tcp:112666:4"/>
+               <!-- PDF PAGE 76 -->raging heat of their malice) conſumed by the fire.</p>
+            <p>So that it may clearely appeare, by the cruelty of theſe devouring Woolfes, that their malice was ſo inveterate to the Engliſh, that they fully intended to make ſuch a deſtru<g ref="char:EOLhyphen"/>ction of them, as there ſhould not appeare ſo much as one Monument of an Engliſh man in the whole kingdom of <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> nor any one thing that ſhould ever be a ſigne unto the ſucceeding Poſterity of the Rebells there, that ever there was an Engliſh man in that Kingdome: and this likely had come to paſſe, had their helliſh Plot taken effect, &amp; had not God in his infinite mercy &amp; goodneſſe prevented the ſame.</p>
+            <p>
+               <note place="margin">The Treache<g ref="char:EOLhyphen"/>ry of the Go<g ref="char:EOLhyphen"/>vernors &amp; Of<g ref="char:EOLhyphen"/>ficers.</note>And although they have by their more then heathe<g ref="char:EOLhyphen"/>niſh Cruelty, (with other unexpected and unlawfull helps which they had) very much advanced their deviliſh de<g ref="char:EOLhyphen"/>fignes, yet it hath pleaſed the All-powerfull God, in ſome meaſure to fruſtrate their long expected hopes, and to ſhew them they neither can nor ſhall ſo farre prevaile over us by force, but that we ſhall be able to enjoy the Inheri<g ref="char:EOLhyphen"/>tance which God Almighty hath beene pleaſed to beſtow upon us in that Kingdome, mangre all their power and malice.</p>
+            <p>And therefore now, what they ſee they are not able to doe by force, they will ſtrive to doe by deviliſh ſubtilty and craft: An inherent quality of that Nation.</p>
+            <p>The meanes to effect this, is by a ſtratagem called by the name of a Ceſſation, which ſome ſelfe-ended Coun<g ref="char:EOLhyphen"/>ſellors have obtained by their inſinuation into his Majeſty, and by theſe falſe Informations that the onely way to ſave the Kingdome of <hi>Ireland,</hi> was by making a Ceſſation with the Rebels there, which indeede may eaſily appeare unto every wiſe man, is, and ſhall prove, if not timely pre<g ref="char:EOLhyphen"/>vented, the very high way to loſe it.</p>
+            <p>For how can it otherwiſe be? for before the Ceſſati<g ref="char:EOLhyphen"/>on was made, what foode had the <hi>Engliſh</hi> to ſubſiſt on,
+<pb n="6" facs="tcp:112666:5"/>
+               <!-- PDF PAGE 77 -->but what they forced from the Rebels? Now the Ceſſati<g ref="char:EOLhyphen"/>on being concluded, and the Rebels having all the eſtates and livelihood of the Proteſtants, and all the food of the Kingdome in their own hands, and ſuffering none of the food to be ſold, for any rates whatſoever, to the <hi>Engliſh,</hi> of purpoſe to ſtarve them out of the Kingdome, and ſo to get poſſeſſion of it themſelves; how can it be thought, but that this ceſſation was brought to paſſe by evil Counſellors to the end the Papiſts ſhould get poſſeſſion of the whole kingdome, as they have already the greateſt part thereof?</p>
+            <p>From all theſe places following, the Rebels have for the moſt part ſtarved out the <hi>Engliſh</hi> ſince this Ceſſation, and that meerely by ſtopping proviſions, and ſuffering none to be ſold unto them. The names of the places are theſe, and all theſe places in the chiefeſt province of the kingdome, the province of <hi>Lemſter, viz. Carloe, Athy,</hi> the Fort of <hi>Leaſe, Neaſe, Trymm,</hi> and <hi>Dundalk,</hi> with ma<g ref="char:EOLhyphen"/>ny more Caſtles and Garriſons. And the certainty of this plot they have in hand, will prove the more apparent, by a Declaration of grievances, ſigned and atteſted by all the Proteſtant Officers of the whole province of <hi>Conought,</hi> ſent unto my Lord Marqueſſe of <hi>Ormond,</hi> ſome five weeks ſince. Wherein amongſt ſundry grievances, they expreſt, that there was an abſolute plot amongſt the Rebels to ſtarve them out of that province, for that the Papiſts would have no manner of commerce, or buying, or ſelling with them, either victuals or any thing elſe. And more<g ref="char:EOLhyphen"/>over the Proteſtants complained in that Declaration, that they found that the County Councels (which were the head rebels of thoſe Counties) had iſſued out Warrants to ſeize on all mens goods and eſtates of their own deviliſh Confederacy, that ſhould offer to have any manner of buying or ſelling with the Engliſh.</p>
+            <p>And therefore what other terme can rightly be given
+<pb n="7" facs="tcp:112666:5"/>
+               <!-- PDF PAGE 77 -->to this Ceſſation, then a trap for Proteſtants? which in<g ref="char:EOLhyphen"/>deed all the Proteſtants of <hi>Ireland</hi> are moſt ſenſible of, and how great a yoake of tyranny they are inforced to lie under. And in that part of the kingdome (as in <hi>Ulſter</hi>) where they were ſo powerfull, as not to feare the ſhewing their true ſenſe of what ſwiſt deſtruction was plotted to bee brought upon them; they have to the number of 30000. men united themſelves to reſolutions of falling upon the <hi>Iriſh</hi> againe, as ſoone as ever ſupplies of victualls commeth unto them, which I doubt not through the mer<g ref="char:EOLhyphen"/>cies of God will redound much to the ſervice of that king<g ref="char:EOLhyphen"/>dome and of this, for I hope the united forces will bee ſtronger ere long, and will give the Rebels ſo much to do in <hi>Ireland,</hi> as they ſhall have either little time or mind of imbrewing their wicked hands in the innocent blood of the Inhabitants of <hi>England,</hi> which truely otherwiſe they will bee moſt eager to doe, and I ſhall ever wiſh that this kingdome in generall may truly diſcerne how pleaſing it will bee to Almightie God, that there may bee aſſiſtance by them given unto the Proteſtants of <hi>Ireland</hi> to proſe<g ref="char:EOLhyphen"/>cute the warre in that kingdome, and to take a juſt re<g ref="char:EOLhyphen"/>venge of the heatheniſh Canibals there, for the many thouſands of Innocents they have murthered. And like<g ref="char:EOLhyphen"/>wiſe how advantagious it will bee for the ſervice of this kingdome, ſince I dare confidently affirme, that the ma<g ref="char:EOLhyphen"/>lice of the <hi>Iriſh</hi> Rebels pointeth at all the Proteſtants, nay at all the Engliſh in this kingdome likewiſe.</p>
+            <p>And that doth appeare by the great preparations there made both by Sea and Land for the ſending over a rebel<g ref="char:EOLhyphen"/>lious Army into this Kingdom, upon hopes and conjectures that the Proteſtants here are in no condition of any wayes enabling the Proteſtants of that Kingdome to with<g ref="char:EOLhyphen"/>ſtand them.</p>
+            <p>For I beſeech you judge, if the Proteſtants there ſhould
+<pb n="8" facs="tcp:112666:6"/>
+               <!-- PDF PAGE 78 -->for indigence and want bee enforced to deſert that King<g ref="char:EOLhyphen"/>dome, and that the <hi>Iriſh</hi> ſhould ſwarme here, what mer<g ref="char:EOLhyphen"/>cy could the <hi>Engliſh</hi> here expect from them, who have beene ſo bloody upon us, that had ſo many ties of friend<g ref="char:EOLhyphen"/>ſhip and gratitude upon them? truly I know not how peo<g ref="char:EOLhyphen"/>ple may flatter themſelves, but I am perſwaded murthe<g ref="char:EOLhyphen"/>ring and maſſacres without mercy, rapes, and rapines, bur<g ref="char:EOLhyphen"/>nings, devaſtations, and all manner of ſpoyles will be the greateſt mercy received from them.</p>
+            <p>And by ſufficient teſtimonies I am perſwaded that if the Papiſts may once have a concourſe into this Kingdome, the very perſon of his Majeſtie would not bee free from the danger of being murthered by them, if their fucceſſes here ſhould not meet with their hopes, or if his Majeſtie ſhould any way decline at any time, (which I hope in Gods due time hee will) from an eager purſuit of the miſ<g ref="char:EOLhyphen"/>chievous deſignes they ſhall at all times ſeeke to bring his Majeſtie unto.</p>
+            <p>And indeed, I have a ſtrong argument to inforce me to this beliefe; for not long before my departure from <hi>Dub<g ref="char:EOLhyphen"/>lin,</hi> certaine newes came to the Citie of my Lord Duke <hi>Hammiltons</hi> flying out of <hi>Scotland</hi> to his Majeſtie, which newes did not a little deject ſome there, for that they did conjecture that there was no partie to bee raifed in <hi>Scotland</hi> for the hindering the advance of the <hi>Scotch</hi> Army into this Kingdome; many whiſpers and conſtructions were concerning his comming away at that time and in that manner, among many others this was the conſtruction my Lord <hi>Taaffe</hi> made of it, who freely ript up his minde to thoſe of ſo unblemiſhed reputations (whom although for ſome cauſes I will not name at this time, yet in due time I ſhall both name them, and prove by them, that hee ex<g ref="char:EOLhyphen"/>preſt himſelf) in theſe words.</p>
+            <p>My Lord Duke <hi>Hammilton</hi> is reported to bee fled out of
+<pb n="9" facs="tcp:112666:6"/>
+               <!-- PDF PAGE 78 -->
+               <hi>Scotland</hi> to the King, and pretends hee fled from thence, becauſe hee could not raiſe a partie for his Majeſtie; But truely for my part, I take him to bee as notorious a Tray<g ref="char:EOLhyphen"/>tor as ever hee was, and that hee is fled to the King meerely to trie, whether or no, with his great power, hee can perſwade the King to a peace, and by that meanes de<g ref="char:EOLhyphen"/>ſtroy the good cauſe his Majeſtie hath in hand. But for my part, I ingenuouſly declare my ſelfe, that if the King bee ſo weake as to bee prevailed upon by him, I thinke it is pitie hee ſhould bee ſuffered to live.</p>
+            <p>So that by this you may well perceive, what a high eſteeme ſuch traytorous Papiſts as theſe have of the cauſe diſputed for by the Kings evill Counſellors: And by con<g ref="char:EOLhyphen"/>ſequence, how little reaſon the Proteſtants have to con<g ref="char:EOLhyphen"/>jecture, that this good cauſe the Papiſts ſo much adore is the Proteſtant Religion, though 6. or 700. of thoſe who joyning with the Proteſtants that came over to ſerve the King, made oath in my hearing to maintaine the Prote<g ref="char:EOLhyphen"/>ſtant Religion with their lives and eſtates. As likewiſe, how much reaſon all honeſt men have to grieve and mourne at the great danger his Majeſtie is in, when ſuch threatners of his life as theſe ſhall ſo neerely approach unto him; The truth of all which I doe hereby engage my ſelfe to prove, whenſoever called upon, and no ſuf<g ref="char:EOLhyphen"/>ferance or death whatſoever, by Gods powerfull aſsi<g ref="char:EOLhyphen"/>ſtance, ſhall ever make me deny any one tittle of what I have here declared and ſubſcribed unto.</p>
+            <closer>
+               <signed>Chidly Coote.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
